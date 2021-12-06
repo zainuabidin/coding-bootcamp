@@ -1,0 +1,22 @@
+#section1 {
+    color: #ffff00;
+    background-color: #800080;
+  }
+  .size{
+      width: 200px;
+      height: 100px;
+  }
+  #section-blue{
+      background-color: blue;
+      color:orange
+  }
+.black-background{
+    background-color:black;
+   
+}
+#yellow-font{
+    color: yellow;
+}
+.white-color{
+    color: white;
+}
